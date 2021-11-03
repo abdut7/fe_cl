@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.54dafd42.chunk.css",
-    "main.js": "/static/js/main.98709897.chunk.js",
-    "main.js.map": "/static/js/main.98709897.chunk.js.map",
+    "main.css": "/static/css/main.cf35c6e7.chunk.css",
+    "main.js": "/static/js/main.77e38273.chunk.js",
+    "main.js.map": "/static/js/main.77e38273.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
     "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
-    "static/js/2.8e094c9e.chunk.js": "/static/js/2.8e094c9e.chunk.js",
-    "static/js/2.8e094c9e.chunk.js.map": "/static/js/2.8e094c9e.chunk.js.map",
+    "static/css/2.07c9864b.chunk.css": "/static/css/2.07c9864b.chunk.css",
+    "static/js/2.a45f179b.chunk.js": "/static/js/2.a45f179b.chunk.js",
+    "static/js/2.a45f179b.chunk.js.map": "/static/js/2.a45f179b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.54dafd42.chunk.css.map": "/static/css/main.54dafd42.chunk.css.map",
-    "static/js/2.8e094c9e.chunk.js.LICENSE.txt": "/static/js/2.8e094c9e.chunk.js.LICENSE.txt",
+    "static/css/2.07c9864b.chunk.css.map": "/static/css/2.07c9864b.chunk.css.map",
+    "static/css/main.cf35c6e7.chunk.css.map": "/static/css/main.cf35c6e7.chunk.css.map",
+    "static/js/2.a45f179b.chunk.js.LICENSE.txt": "/static/js/2.a45f179b.chunk.js.LICENSE.txt",
     "static/media/bell-regular 1.efe07582.svg": "/static/media/bell-regular 1.efe07582.svg",
     "static/media/calendar-week-solid.a26b568a.svg": "/static/media/calendar-week-solid.a26b568a.svg",
     "static/media/check-circle-regular.f8cf4088.svg": "/static/media/check-circle-regular.f8cf4088.svg",
@@ -26,6 +28,7 @@
     "static/media/history-dots.0279fa02.svg": "/static/media/history-dots.0279fa02.svg",
     "static/media/increacse2.d2254016.svg": "/static/media/increacse2.d2254016.svg",
     "static/media/lock-solid.3804a436.svg": "/static/media/lock-solid.3804a436.svg",
+    "static/media/lock.6f7d5369.svg": "/static/media/lock.6f7d5369.svg",
     "static/media/logo-2.a6c4592e.png": "/static/media/logo-2.a6c4592e.png",
     "static/media/logo.a7a42f81.png": "/static/media/logo.a7a42f81.png",
     "static/media/newspaper-solid.44ce0d1d.svg": "/static/media/newspaper-solid.44ce0d1d.svg",
@@ -41,8 +44,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.900dd88b.js",
-    "static/js/2.8e094c9e.chunk.js",
-    "static/css/main.54dafd42.chunk.css",
-    "static/js/main.98709897.chunk.js"
+    "static/css/2.07c9864b.chunk.css",
+    "static/js/2.a45f179b.chunk.js",
+    "static/css/main.cf35c6e7.chunk.css",
+    "static/js/main.77e38273.chunk.js"
   ]
 }
