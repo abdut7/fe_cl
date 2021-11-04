@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf35c6e7.chunk.css",
-    "main.js": "/static/js/main.77e38273.chunk.js",
-    "main.js.map": "/static/js/main.77e38273.chunk.js.map",
+    "main.css": "/static/css/main.9439672f.chunk.css",
+    "main.js": "/static/js/main.66dea34f.chunk.js",
+    "main.js.map": "/static/js/main.66dea34f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.900dd88b.js",
     "runtime-main.js.map": "/static/js/runtime-main.900dd88b.js.map",
     "static/css/2.07c9864b.chunk.css": "/static/css/2.07c9864b.chunk.css",
-    "static/js/2.a45f179b.chunk.js": "/static/js/2.a45f179b.chunk.js",
-    "static/js/2.a45f179b.chunk.js.map": "/static/js/2.a45f179b.chunk.js.map",
+    "static/js/2.1aa06c09.chunk.js": "/static/js/2.1aa06c09.chunk.js",
+    "static/js/2.1aa06c09.chunk.js.map": "/static/js/2.1aa06c09.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.07c9864b.chunk.css.map": "/static/css/2.07c9864b.chunk.css.map",
-    "static/css/main.cf35c6e7.chunk.css.map": "/static/css/main.cf35c6e7.chunk.css.map",
-    "static/js/2.a45f179b.chunk.js.LICENSE.txt": "/static/js/2.a45f179b.chunk.js.LICENSE.txt",
+    "static/css/main.9439672f.chunk.css.map": "/static/css/main.9439672f.chunk.css.map",
+    "static/js/2.1aa06c09.chunk.js.LICENSE.txt": "/static/js/2.1aa06c09.chunk.js.LICENSE.txt",
     "static/media/bell-regular 1.efe07582.svg": "/static/media/bell-regular 1.efe07582.svg",
     "static/media/calendar-week-solid.a26b568a.svg": "/static/media/calendar-week-solid.a26b568a.svg",
     "static/media/check-circle-regular.f8cf4088.svg": "/static/media/check-circle-regular.f8cf4088.svg",
@@ -36,6 +36,7 @@
     "static/media/play-active.2b2c163d.svg": "/static/media/play-active.2b2c163d.svg",
     "static/media/search-solid.567bc224.svg": "/static/media/search-solid.567bc224.svg",
     "static/media/shapes-solid.a50c5be9.svg": "/static/media/shapes-solid.a50c5be9.svg",
+    "static/media/sign-out-alt-solid.518e1885.svg": "/static/media/sign-out-alt-solid.518e1885.svg",
     "static/media/star-solid.889f087c.svg": "/static/media/star-solid.889f087c.svg",
     "static/media/stream-solid.496a61d6.svg": "/static/media/stream-solid.496a61d6.svg",
     "static/media/university-solid.84e5cf25.svg": "/static/media/university-solid.84e5cf25.svg",
@@ -45,8 +46,8 @@
   "entrypoints": [
     "static/js/runtime-main.900dd88b.js",
     "static/css/2.07c9864b.chunk.css",
-    "static/js/2.a45f179b.chunk.js",
-    "static/css/main.cf35c6e7.chunk.css",
-    "static/js/main.77e38273.chunk.js"
+    "static/js/2.1aa06c09.chunk.js",
+    "static/css/main.9439672f.chunk.css",
+    "static/js/main.66dea34f.chunk.js"
   ]
 }
